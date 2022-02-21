@@ -7,3 +7,5 @@ This was the culmination of multiple issues, the biggest being a lack of volunte
 
 All first party code within this repository is now in the public domain. (This does not apply to any dependencies or F4SE which still fall under their own licensing terms)
 
+EDIT: I (not the original Developer) am starting to analyze the code and will look into it soon!
+
